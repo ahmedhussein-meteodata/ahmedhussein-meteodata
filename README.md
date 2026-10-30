@@ -42,6 +42,9 @@ Analysis of dust transport associated with a Saharan cyclone using Python and me
 Interactive Excel dashboard analyzing climate, synoptic trends, and wind-dust patterns across North Africa.
 - 🔗 [View Project](https://github.com/ahmedhussein-meteodata/North-Africa-Climate-Dashboard)
 
+#### 📊 Global Sales & Profitability Analytics Dashboard
+End-to-end Excel Business Intelligence dashboard analyzing global sales performance and profitability drivers.
+- 🔗 [View Project](https://github.com/ahmedhussein-meteodata/Global-Sales-Profitability-Dashboard)
 ---
 
 ### 📈 GitHub Stats
